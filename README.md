@@ -1,4 +1,4 @@
-<h3>Este es el repositorio de Proyecto Final de Ingieneria de Software 1 Universidad Tecnológica de Panamá <h3>
+<h3><strong>ES ES EL REPOSITORIO DE LA CLASE DE DESARROLLO DE SOFTWARE 1 UNIVERSIDAD TECNLOGICA DE PANAMÁ</strong><h3>
 
 
 Integrantes:
